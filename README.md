@@ -2,5 +2,5 @@
 
 How to run this server:
 ```
-node .\server.js
+> node .\server.js
 ```
